@@ -41,4 +41,5 @@ Guidelenes and parameters from ASHRAE Fundementals 2017 were use to deem data va
 While the user can set any range of years (must be more than 7) to run an analysis, ASHRAE generally uses one of two periods:
 * 1986 to 2010
 * 1990 to 2014
+<a/>
 Use the proper years to fit your study
