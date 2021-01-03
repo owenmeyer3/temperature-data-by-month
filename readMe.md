@@ -21,7 +21,7 @@ The monthly extreme primary temperatures are defined as a set percentage of the 
 
 ## User inputs
 Set these values in the inputs section of main.py
-* location - user can choose 1 or 2 weather station IDs to represent a project location. If weather station changed codes during the analysis, the second statin code will be used if the first cannot be found.
+* location - user can choose 1 or 2 weather station IDs to represent a project location. If weather station changed codes during the analysis, the second statin code will be used if the first cannot be found. Find coes in weatherData/stationCodes.csv
 * start_year - first year of analysis (inclusive)
 * end_year - last year of analysis (inclusive)
 * Psta - average atmospheric pressure of the location (psi). Needed for calculting wet bulb temperature from dry bulb temperature and dew point.
